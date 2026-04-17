@@ -501,6 +501,15 @@ MegaTrain 的价值在于：**当你需要全参训练但没有多卡集群时**
 
 ---
 
+## 🔗 更多中文 AI 实战指南
+
+| 项目 | 简介 |
+|------|------|
+| [🤖 AI Agent 框架选型指南](https://github.com/Vincentwei1021/awesome-ai-agent-frameworks) | Scion/AutoGen/CrewAI/LangGraph 深度对比 + 选型决策树 |
+| [📈 Kronos 中文实战指南](https://github.com/Vincentwei1021/kronos-guide-cn) | 金融 K 线基础模型 · A 股预测 · 微调 · 回测集成 |
+
+---
+
 ## 📄 许可证
 
 本指南采用 [MIT License](LICENSE) 开源。MegaTrain 原始代码采用 [Apache 2.0 License](https://github.com/DLYuanGod/MegaTrain/blob/main/LICENSE)。
